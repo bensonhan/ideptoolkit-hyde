@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transfert de disque de laque
+title: Transferencia de disco de laca
 menu: true
 order: 7
 lang: spa
@@ -8,7 +8,7 @@ ref: lacquer
 permalink: /lacquer-spa
 ---
 
-### GUÍA RÁPIDA
+### Visión de conjunto
 
 ##### Evaluación y limpieza de discos
 * Agrupa los discos por condición
